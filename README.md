@@ -197,7 +197,7 @@ This time, you will only see items returned that satisfy the value of the WHERE 
 
 In this step, you practiced using the DynamoDB dashboard to query a table.
 
-## Step 6: Deleting a DynamoDB Table
+## Step 7: Deleting a DynamoDB Table
 1. In the left-hand menu, click Tables.
 
 2. In the Tables table, select the Thread table.
